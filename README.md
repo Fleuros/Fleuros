@@ -3,7 +3,7 @@
 ## Jouez avec nous
 **IP** : 5.196.7.147
 
-**Version** : 1.20.XX
+**Version** : 1.20.x
 ## Discord
 Rejoignez-nous sur [notre serveur](https://discord.gg/tNp9nrd).
 ## Plugins & Modes
