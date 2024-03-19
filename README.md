@@ -5,7 +5,7 @@
 
 **Version** : 1.20.1 (seulement, pour le moment)
 ## Discord
-Rejoins-nous sur [notre serveur](https://discord.gg/tNp9nrd).
+Rejoignez-nous sur [notre serveur](https://discord.gg/tNp9nrd).
 ## Plugins & Modes
 - NoteBlockAPI
 - dynmap
