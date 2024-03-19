@@ -8,8 +8,7 @@
 Rejoignez-nous sur [notre serveur](https://discord.gg/tNp9nrd).
 ## Plugins & Modes
 - NoteBlockAPI
-- dynmap
-  - [Voir les cartes en temps réel](http://5.196.7.147:8123)
+- [dynmap](https://github.com/webbukkit/dynmap) pour [voir les cartes en temps réel](http://5.196.7.147:8123)
 - voicechat
 - WorldEdit
 - WorldGuard
@@ -19,6 +18,7 @@ Rejoignez-nous sur [notre serveur](https://discord.gg/tNp9nrd).
 - CoreProtect
 - GriefPrevention
 - Spark
+- [Emotes](https://github.com/felixstaude/Emotes) pour avoir les emotes Kappa, KEKW, ... dans le chat du jeu.
 ## Questions sur Minecraft
 Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potions par exemple :
 - Demandez aux autres personnes sur le serveur ou sur le Discord
