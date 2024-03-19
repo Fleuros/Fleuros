@@ -9,6 +9,7 @@ Rejoins-nous sur [notre serveur](https://discord.gg/tNp9nrd).
 ## Plugins & Modes
 - NoteBlockAPI
 - dynmap
+  - [Voir les cartes en temps réel](http://5.196.7.147:8123)
 - voicechat
 - WorldEdit
 - WorldGuard
