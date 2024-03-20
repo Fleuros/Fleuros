@@ -9,7 +9,7 @@
         <img src="https://i.imgur.com/JgDt1Fl.png" width="300">
     </a>
     <br/>
-    <i>Rejoignez-nous sur notre serveur</i>
+    <i>Pour discuter avec nous, rejoignez notre Discord</i>
 </p>
 
 ## Plugins & Modes
