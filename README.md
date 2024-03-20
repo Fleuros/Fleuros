@@ -25,6 +25,7 @@
 - [GriefPrevention](https://github.com/GriefPrevention/GriefPrevention) pour protéger vos constructions et vos coffres.
 - [Spark](https://github.com/lucko/spark) pour suivre les performances du serveur.
 - [Emotes](https://github.com/felixstaude/Emotes) pour avoir les emotes Kappa, KEKW, ... dans le chat du jeu.
+- [Viaversion](https://github.com/ViaVersion/ViaVersion) pour vous permettre de rejoindre le serveur peu importe votre 1.20.x.
 ## Questions sur Minecraft
 Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potions par exemple :
 - Demandez aux autres personnes sur le serveur ou sur le Discord
