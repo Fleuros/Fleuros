@@ -4,8 +4,14 @@
 **IP** : 5.196.7.147
 
 **Version** : 1.20.x
-## Discord
-Rejoignez-nous sur [notre serveur](https://discord.gg/tNp9nrd).
+<p align="left">
+    <a href="https://discord.gg/tNp9nrd">
+        <img src="https://i.imgur.com/JgDt1Fl.png" width="300">
+    </a>
+    <br/>
+    <i>Rejoignez-nous sur notre serveur</i>
+</p>
+
 ## Plugins & Modes
 - NoteBlockAPI
 - [dynmap](https://github.com/webbukkit/dynmap) pour [voir les cartes en temps réel](http://5.196.7.147:8123)
