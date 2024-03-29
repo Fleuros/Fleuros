@@ -1,0 +1,176 @@
+NO_PEX: '&6Sry no perms'
+ONLY_PLAYERS: Sry, but only players can execute this command
+SPECIFY_PLAYER: Sry, but command can be executed only at players. Specify player to
+  execute at
+SONG_NAME: '&6{song}'
+SONG_LORE:
+- '&7Duration: &b{length}'
+- '&7Author: &b{author}'
+- '&7Original author: &b{original_author}'
+NEW_INSTRUMENT: '&cThis song contains instrument, available in 1.14'
+GUI_TITLE: '&l&3MusicBox &8{container} &0{page}&7/&0{last_page}'
+FOLDER_FORMAT: '&e{folder}'
+CURRENT_PLAYNING: '&eNow playing &b{song}'
+ADD_CONTAINER_TO_PLAYLIST:
+- ''
+- '&7=========================='
+- '&bRight click&7 to add in your playlist'
+CURRENT_IN_PLAYLIST: '&aIn playlist'
+SONG_PANEL_NOW_PLAY:
+- ''
+- '&aNow playning'
+SONG_PANEL_SWITH_TO:
+- ''
+- '&7Click to play'
+ADD_MUSIC_TO_PLAYLIST:
+- '&bLeft click&7 to add this song to playlist'
+COMMAND_HELP_SHOP: '&b/musicbox shop&6 - Open disc shop'
+COMMAND_HELP_GIVE: '&b/musicbox give&6 - Give disc'
+COMMAND_HELP:
+- '&b/musicbox &6- Open music gui'
+ADMIN_HELP:
+- '&b/musicbox shop [player] (name)&6 - Open disc shop or buy disc with name for player'
+- '&b/musicbox give [player] (name)&6 - Open give disc gui or give song with name
+  to the player'
+- '&b/musicbox give_single [player]&6 - Open give GUI to player, but he can only select
+  1 disc'
+- '&b/musicbox play [player] [name]&6 - Play sound to player'
+- '&b/musicbox silent [on,off,switch] (player) &6- Change player silent mode'
+- '&b/musicbox shutup [player] &6- off player SongPlayer'
+- '&b/musicbox reload &6- reload plugin with all music'
+BUY_MUSIC_LORE:
+- ''
+- '&7=========================='
+- '&eClick to buy this disc'
+- '&7Price: &6{price} $'
+CANT_SWITCH: You cant switch play mode
+NEXT: '&6Next'
+BACK: '&6Back'
+BUY_CONTAINER_LORE:
+- ''
+- '&7=========================='
+- '&ePress &cright&e to buy this box'
+- '&7Price: &6{price} $'
+NO_HAS_MONEY: '&6You don''t have enough &b{amount}&6 to buy this'
+NO_INVENTORY_SPACE: '&6You dont have space in your inventory'
+DISC_BUYED: '&6You have successfully purchased a disc &b{disc}'
+PARENT_CONTAINER: '&6Return to parent folder'
+HUMAN_TIME_MINUTE: '{value}m.'
+HUMAN_TIME_SECOND: '{value}s.'
+SONG_STOP: '&cStop'
+REWIND_BUTTON: '&6Rewind'
+NOT_PLAY: '&6Music currently does not play'
+BLOCK_NOT_PLAY: '&6This block currently don''t play music'
+CONTROL_GUI_TITLE: Song panel - now play &0&n{song}
+REWIND_TO: '&6Rewind to &b{time}&e({percent}%)'
+REWINDED: '&6You are rewind song to &b{time}&e({percent}%)'
+CLOSE: '&cClose'
+ENABLE: '&aEnable'
+DISABLE: '&cDisable'
+SWITH_MODE_LORE:
+- '&7Status: {status}'
+- '&7Speaker mode allow nearby players hear you music'
+SWITH_MODE_NO_PEX_LORE:
+- '&7You need &bmusicbox.speaker to change mode'
+SPEAKER_MODE: '&6Speaker mode'
+PLAYLIST_EDITOR: '&6Playlist list'
+PLAYLIST_NAME: '&6{name}'
+GO_BACK_TO_PLAYLIST: '&6Go back to playlist'
+PLAYLIST_LORE:
+- '&7Track count: &b{count}'
+- '&7Duration: &b{duration}'
+PLAYLIST_ITEM_LORE:
+- ''
+- '&7=========================='
+- '&7Press &bthe left mouse button&7 to listen'
+- '&7To delete, press &bthe right mouse button'
+PLAYLIST_LIST_TITLE: '&l&3Playlist list &0{page}&7/&0{last_page}'
+PLAYLIST_EDITOR_LIST_TITLE: '&l&3Edit {playlist}&f &0{page}&7/&0{last_page}'
+MASTER_PLAYLIST: '&6Master playlist'
+MASTER_PLAYLIST_LORE:
+- '&7Include &cALL&7 tracks'
+- '&aAlways&7 random'
+CREATE_NEW_PLAYLIST: '&6Create new playlist'
+NEW_PLAYLIST_MESSAGE: '&6To create a new playlist write &b/musicbox playlist Playlist
+  name '
+SAVE_PLAYLIST_CHANGE: '&6Save changes'
+PLAYLIST_SAVED: '&6Playlist &b{playlist}&6 saved'
+DELETE_PLAYLIST: '&6Delete playlist'
+PLAYLIST_DELETED: '&6You delete playlist &b{playlist}'
+SHUFFLE_PLAYLIST: '&6Shuffle playlist'
+RENAME_PLAYLIST: '&6Rename playlist'
+DONT_FORGET_TO_SAVE:
+- '&cDO NOT FORGET&7 to save'
+ADD_MUSIC_TO_PLAYLIST_ITEM: '&6Add music to this playlist'
+PLAYLIST_ZERO_SIZE: '&cYou can''t save empty playlist'
+CHILL_CHILL_MAN: '&cChill man, chill, save in progress'
+NEXT_PLAYLIST_SONG_TITLE: '&6Play next playlist song'
+PLAYLIST_SONG_NUM: '&9{num}) '
+CURRENT_PLAYLIST_SONG: '{num}&a{song}'
+ANOTHER_PLAYLIST_SONG: '{num}&8{song}'
+DEFAULT_PLAYLIST_LORE:
+- ''
+- '&7=========================='
+- '&bLeft click&7 to play'
+- '&bRight click&7 to edit'
+SONG_NOT_FOUND: '&cSong not found'
+YOU_GET_DISC: '&6You get disc &b{disc}'
+GET_DISC_LORE:
+- ''
+- '&7=========================='
+- '&7Click to get this disc'
+GET_ALL_CONTAINER_LORE:
+- ''
+- '&7=========================='
+- '&7Click right to get all container'
+INPUT_NAME: '&6Input name &b/musicbox playlist name'
+PLAYER_OFLLINE: '&6Player &b{player}&6 offline'
+SHUT_UPPED: '&6Player &b{player}&6 has ben muted'
+SIGN_PLAYLIST_LORE:
+- ''
+- '&7=========================='
+- '&eClick to setup sign playlist'
+SIGN_SONG_LORE:
+- ''
+- '&7=========================='
+- '&eClick to setup sign song'
+RANDOM_MODE_BUTTON: '&6Random mode {status}'
+SIGN_CONTAINER_LORE:
+- ''
+- '&7=========================='
+- '&eRight click&7 to setup this container on sign'
+WRONG_SIGN_FACE: '&cWrong side of the plate, but nothing, now we''ll fix it'
+SEARCH_INFO_SIGN_HOVER:
+- '&7If enabled, it will display the current playlist'
+- '&7on the sign above or below'
+- '&7Looks for it from below and from above at a length of &e5&7 blocks from the current
+  sign'
+ENDLESS_SIGN_MODE: '&6Endless sign mode {status}'
+SEARCH_INFO_SIGN_TITLE: '&6Search info sign {status}'
+INFO_SIGN_OFF:
+- It info sign
+- for songplayer
+- Currently SongPlayer
+- '&cOFF'
+CONTROL_PANEL_BUTTON: '&6Songplayer panel'
+PREVENT_DESTROY_TITLE: '&6Prevent sign destroy {status}'
+PREVENT_DESTROY_LORE:
+- '&7If enabled, the plugin will not destroy the sign'
+- '&7if no one hears it for more than &b60&7 seconds (configurable in the config)'
+- '&7also protects the songplayer to restart the server'
+- ''
+- '&7This button is visible only to those who have &cmusicbox.admin'
+CLICK_TO_PLAY_CONTAINER:
+- ''
+- '&7=========================='
+- '&eRight click&7 to play this chest'
+LEGACY_DISC_NOT_FOUND: '&6Sorry, i can find sound with name &b{song}'
+LEGACY_DISC_REPLACE: '&6It looks like this is a disc from an old version of the plugin,
+  but don''t worry, we''ll convert it to the new one. Click again, but now with a
+  new disc'
+SILENT_MODE_LORE:
+- '&7In silent mode you can hear &bonly self songs&7.'
+- '&7No any other songplayers from player speakers, jukeboxs or signs'
+- '&7Status: {status}'
+SILENT_MODE: '&6Silent mode'
+SILENT_MODE_RESPONSE: '&6Set &b{player}&6 silent mode to {state}'
