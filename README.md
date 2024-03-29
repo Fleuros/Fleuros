@@ -30,4 +30,4 @@
 ## Questions sur Minecraft
 Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potions par exemple :
 - Demandez aux autres personnes sur le serveur ou sur le Discord
-- Ou utilisez le [Wiki Minecraft](https://fr.minecraft.wiki)
+- Ou utilisez le [Minecraft Wiki](https://fr.minecraft.wiki)
