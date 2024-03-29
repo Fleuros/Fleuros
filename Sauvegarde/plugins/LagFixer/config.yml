@@ -1,0 +1,225 @@
+# ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+# ░██╗░░░░░░█████╗░░██████╗░░░███████╗██╗██╗░░██╗███████╗██████╗░░
+# ░██║░░░░░██╔══██╗██╔════╝░░░██╔════╝██║╚██╗██╔╝██╔════╝██╔══██╗░
+# ░██║░░░░░███████║██║░░██╗░░░█████╗░░██║░╚███╔╝░█████╗░░██████╔╝░
+# ░██║░░░░░██╔══██║██║░░╚██╗░░██╔══╝░░██║░██╔██╗░██╔══╝░░██╔══██╗░
+# ░███████╗██║░░██║╚██████╔╝░░██║░░░░░██║██╔╝╚██╗███████╗██║░░██║░
+# ░╚══════╝╚═╝░░╚═╝░╚═════╝░░░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝░
+# ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+# some of the options below require a server restart or plugins reload
+main:
+  prefix: '&8[&e&l⚡&8] '
+  prefix_hover: true # LagFixer version info hover
+  threads: 1 # LagFixer does not have multithreading yet
+  decimal_format: '##.##' # decimal format for TPS, MSPT, CPU etc.
+  errors_reporter: true # automatic reporting errors caused by LagFixer and Spark profiler to our support
+  updater: true
+  command:
+    permission: lagfixer.command
+    aliases:
+    - lf
+    - antilag
+    - lag
+
+modules:
+  CustomAi:
+    enabled: false
+    worlds:
+    - world
+    - world_the_end
+    - world_nether
+    values:
+      collides: true # Bow arrow don't work when this option is false
+      silent: true
+      async: true
+      
+      # configuration for entities
+      entities:
+        animals: true
+        monsters: true
+        villagers: true
+        others: true
+      
+      # configuration for pathfinder
+      tempt:
+        range: 5.0 # player search range
+        speed: 1.25 # speed of walking
+        cooldown: 30 # player search cooldown in ticks
+        villagers: true # villagers will follow players with emerald in hand
+        trigger_both_hands: true # false = only main hand
+        event: false # call EntityTargetEvent with Reason: Tempt
+        teleport: false # 1.20 only for tests
+      breed:
+        range: 5.0 # partner search range
+        speed: 1.0 # speed of walking
+        event: false # call EntityTargetEvent with Reason: Custom
+        teleport: false # 1.20 only for tests
+      ignored_paths: # removing useless random moves that load the server (for all mobs except animals)
+        - Random
+        - LookAt
+        - Panic
+        - AvoidTarget
+        - MoveTowards
+  # - Float
+  # - FollowParent
+  # - MoveThroughVillage
+
+  CustomVehicles:
+    enabled: false
+    worlds:
+    - world
+    - world_the_end
+    - world_nether
+    values:
+      minecart:
+        enabled: true
+        silent: true
+        max_speed: 8 # when the minecart is in water it is 2 times slower
+        physics: false
+        culling: false
+        collides: false
+      boat:
+        enabled: true
+        collides: false
+      animals:
+        enabled: false
+  
+  LagMonitor:
+    enabled: true
+    worlds:
+    - world
+    - world_the_end
+    - world_nether
+    values:
+      needed_mspt: 75 # when the server has mspt above this value, the lagfixer will set the options listed below
+      durning_lags:
+        simulation_distance: 2 # this value can be only 2-32, set a lower value than that in the fork configuration
+        view_distance: 2 # this value can be only 2-32, set a lower value than that in the fork configuration
+        disable:
+          entity_spawn: true
+          tick_hopper: true
+          redstone: false
+          projectiles: false
+          leaves_decay: true
+          mobai: false
+          liquid_flow: true
+          random_tick_speed: true
+          view_distance: false
+          simulation_distance: true
+  
+  LogFilter:
+    enabled: true
+    values:
+      logs_limit: 10 # limit of logger saves in directory "/logs", -1 disables this feature
+      filter:
+        enabled: true
+        save_filtered: true
+        error_filtering: true
+        patterns:
+        - ^<(([A-Za-z0-9_]{3,16}))> (.{0,})
+        - ^/([0-9]{1,3})\.([0-9]{1,3})\.([0-9]{1,3})\.([0-9]{1,3})\:([0-9]{1,5}) lost
+          connection
+        - Reached end of stream for /([0-9]{1,3})\.([0-9]{1,3})\.([0-9]{1,3})\.([0-9]{1,3})$
+        - '([A-Za-z0-9_]{3,16}) issued server command: /(.{0,})'
+        - Read timed out
+        - ^.*logged in with entity id ([0-9]{0,}) at.*$
+        - '([A-Za-z0-9_]{3,16}) lost connection: Disconnected'
+        - ^(§e)([A-Za-z0-9_]{3,16}) left the game.
+        - Connection reset
+        - 'CONSOLE: Forcing save\.\..*'
+        - 'CONSOLE: Save complete\..*'
+  
+  AntiRedstone:
+    enabled: true
+    worlds:
+    - world
+    - world_the_end
+    - world_nether
+    values:
+      ticks_limit: 1500
+      message: '&7Blocked &f{TICKS} &7redstone ticks!'
+      lever: # lever use cooldown in milliseconds
+        cooldown: 1000
+        message: '&7You can use the lever again in &f{COOLDOWN}&7ms.'
+  
+  EntityLimiter:
+    enabled: false
+    worlds:
+    - world
+    - world_the_end
+    - world_nether
+    values:
+      no_chest_minecarts: true # removes minecart chests from world and disables spawning
+      creatures: 15 # animals and monsters per chunk
+      items: 25 # dropped items by player per chunk
+      vehicles: 3 # minecarts and boats per chunk
+  
+  ItemsCleaner:
+    enabled: false
+    worlds:
+    - world
+    - world_the_end
+    - world_nether
+    values:
+      interval: 300 # in seconds
+      abyss: # abyss is the place where all deleted items go, and players can get them back by typing the /abyss command
+        enabled: false
+        permission: lagfixer.abyss # set this empty to disable permission
+        menu_name: '&8[&e&l⚡&8] &7LagFixer &fABYSS!'
+        menu_size: 54
+        item_despawn: false # true = plugin will listen ItemDespawnEvent and adds to abyss inventory
+        close: 30 # clear abyss inventory and disable command
+        close_message: '&eThe abyss has been successfully closed!'
+      messages:
+        # 60: "&cWarning! &7Ground items will be removed in &460 &7seconds!"
+        # 30: "&cWarning! &7Ground items will be removed in &430 &7seconds!"
+        # 20: "&cWarning! &7Ground items will be removed in &420 &7seconds!"
+        '15': '&cWarning! &7Ground items will be removed in &415 &7seconds!'
+        '10': '&cWarning! &7Ground items will be removed in &410 &7seconds!'
+        '5': '&cWarning! &7Ground items will be removed in &45 &7seconds!'
+        '4': '&cWarning! &7Ground items will be removed in &44 &7seconds!'
+        '3': '&cWarning! &7Ground items will be removed in &43 &7seconds!'
+        '2': '&cWarning! &7Ground items will be removed in &42 &7seconds!'
+        '1': '&cWarning! &7Ground items will be removed in &41 &7seconds!'
+        '0': '&e{COUNT}x Items on the ground have been removed! &8-> &e/abyss'
+  
+  # Beta - only for plugin developer
+  WorldOptimizer:
+    enabled: false
+    worlds:
+    - world
+    - world_the_end
+    - world_nether
+    values:
+      interval: 60
+      tile_entities:
+        tick_cooldown: 20
+      smart_chunks: true
+  
+  # Beta - only for plugin developer
+  CustomTracker:
+    enabled: false
+    worlds:
+    - world
+    - world_the_end
+    - world_nether
+    values:
+      needed_mspt: 35
+      check_interval: 40
+      untrack_interval: 400
+      disable_ticking: true
+      range: 10
+  
+  # Beta - only for plugin developer
+  CreatureStacker:
+    enabled: false
+    values:
+      seach_range: 5 # the distance from which creatures are searched
+      interval: -1 # -1 disables this feature
+      similarity_check: true # checking the similarity between creatures, e.g. the color of wool
+      whitelist: []
+      blacklist:
+      - VILLAGER
+      - ZOMBIE_VILLAGER
+      - PILLAGER
