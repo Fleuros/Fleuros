@@ -1,0 +1,7 @@
+replacements:
+  kappa:
+    names: [":Kappa:", ":kappa:", "kappa", "Kappa"]
+    char: "\ue001"
+  kekw:
+    names: [":kekw:", ":KEKW:", "kekw", "KEKW"]
+    char: "\ue002"
