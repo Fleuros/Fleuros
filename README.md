@@ -22,7 +22,7 @@
 - [NoteBlockAPI](https://github.com/koca2000/NoteBlockAPI) nécessaire pour faire fonctionner MusicBox.
 - [MusicBox](https://github.com/Spliterash/MusicBox) rajoute des musiques, plus de 380 sur Fleuros.
 - [CoreProtect](https://github.com/PlayPro/CoreProtect) pour avoir l'historique de qui va dans les coffres des autres, qui casse, etc.
-- [GriefPrevention](https://github.com/GriefPrevention/GriefPrevention) pour protéger vos constructions et vos coffres.
+- [GriefPrevention](https://github.com/GriefPrevention/GriefPrevention) pour protéger vos constructions et vos coffres avec une pelle en or.
 - [Spark](https://github.com/lucko/spark) pour suivre les performances du serveur.
 - [LagFixer](https://www.spigotmc.org/resources/1-17-1-20-4-lagfixer-%E2%9A%A1%EF%B8%8F-best-performance-solution-%E2%AD%95-well-optimized-%E2%9C%85-folia-supported.111684) empêche les lags.
 - [Emotes](https://github.com/felixstaude/Emotes) pour avoir les emotes Kappa, KEKW, ... dans le chat du jeu.
