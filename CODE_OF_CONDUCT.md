@@ -22,4 +22,4 @@ Ce code de conduite s'applique à la fois dans les espaces du projet et dans les
 
 ## Application
 
-Les instances de comportement abusif, de harcèlement ou autrement inacceptable peuvent être signalées en contactant l'équipe du projet à fleuros@kyvern.org ou via nos autres canaux de communication. Toutes les plaintes seront examinées et feront l'objet d'une enquête et donneront lieu à une réponse jugée nécessaire et appropriée aux circonstances. L'équipe du projet est tenue de maintenir la confidentialité à l'égard du rapporteur d'un incident.
+Tout comportement inacceptable peut être signalées en contactant l'équipe du projet à fleuros@kyvern.org ou via nos autres canaux de communication. Toutes les plaintes seront examinées et feront l'objet d'une enquête et donneront lieu à une réponse jugée nécessaire et appropriée aux circonstances. L'équipe du projet est tenue de maintenir la confidentialité à l'égard du rapporteur d'un incident.
