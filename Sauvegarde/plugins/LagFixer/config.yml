@@ -129,6 +129,7 @@ modules:
         - Connection reset
         - 'CONSOLE: Forcing save\.\..*'
         - 'CONSOLE: Save complete\..*'
+        - ^.*Can't keep up! Is the server overloaded?.*$
   
   AntiRedstone:
     enabled: true
