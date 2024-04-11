@@ -166,8 +166,8 @@ GriefPrevention:
   BanCommandPattern: ban %name% %reason%
   Advanced:
     fixNegativeClaimblockAmounts: true
-    ClaimExpirationCheckRate: 60
-    OfflinePlayer_cache_days: 90
+    ClaimExpirationCheckRate: 999999
+    OfflinePlayer_cache_days: 365
   Abridged Logs:
     Days To Keep: 7
     Included Entry Types:
