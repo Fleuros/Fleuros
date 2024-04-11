@@ -15,8 +15,8 @@
 ## Plugins & Modes
 - [dynmap](https://github.com/webbukkit/dynmap) pour [voir ici les cartes en temps réel](http://5.196.7.147:8123).
 - [voicechat](https://github.com/henkelmax/simple-voice-chat) pour parler en vocal en jeu. Nécessite que vous ayez installez le mode Simple-voice-chat sur votre jeu.
-- [WorldEdit](https://github.com/EngineHub/WorldEdit) pour que les admins éditent la carte rapidement entre autres.
-- [WorldGuard](https://github.com/EngineHub/WorldGuard) pour que les admins protègent certaines zones des joueurs.
+- [WorldEdit](https://github.com/EngineHub/WorldEdit) pour que les admins éditent la carte rapidement entre autres. [Désactivé, inutilisé]
+- [WorldGuard](https://github.com/EngineHub/WorldGuard) pour que les admins protègent certaines zones des joueurs. [Désactivé, inutilisé]
 - [AntiPopup](https://github.com/KaspianDev/AntiPopup) supprime la popup du système de signalement de chat.
 - [DiscordSRV](https://github.com/DiscordSRV/DiscordSRV) pour connecter Discord avec le jeu.
 - [NoteBlockAPI](https://github.com/koca2000/NoteBlockAPI) nécessaire pour faire fonctionner MusicBox.
