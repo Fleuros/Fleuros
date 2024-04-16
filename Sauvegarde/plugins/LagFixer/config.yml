@@ -132,7 +132,7 @@ modules:
         - ^.*Can't keep up! Is the server overloaded?.*$
   
   AntiRedstone:
-    enabled: true
+    enabled: false
     worlds:
     - world
     - world_the_end
@@ -145,7 +145,7 @@ modules:
         message: '&7You can use the lever again in &f{COOLDOWN}&7ms.'
   
   EntityLimiter:
-    enabled: false
+    enabled: true
     worlds:
     - world
     - world_the_end
