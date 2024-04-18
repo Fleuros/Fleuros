@@ -12,7 +12,7 @@
     <i>Pour discuter avec nous, rejoignez notre Discord</i>
 </p>
 
-## Plugins & Modes
+## Plugins
 - [dynmap](https://github.com/webbukkit/dynmap) pour [voir ici les cartes en temps réel](http://5.196.7.147:8123).
 - [voicechat](https://github.com/henkelmax/simple-voice-chat) pour parler en vocal en jeu. Nécessite que vous ayez installez le mode [Simple-voice-chat](https://modrinth.com/plugin/simple-voice-chat/version/bukkit-2.5.10) sur votre jeu.
 - [AntiPopup](https://github.com/KaspianDev/AntiPopup) supprime la popup du système de signalement de chat.
