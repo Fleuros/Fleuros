@@ -9,3 +9,4 @@
 OptiFine 1.20.5 = 10%
 ## Minecraft
 [Feeds Discord](https://discord.com/channels/302094807046684672/1136326045918834859)
+[java-changelogs Discord](https://discord.com/channels/302094807046684672/656622314309550129)
