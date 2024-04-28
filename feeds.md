@@ -7,3 +7,5 @@
 ## OptiFine
 [Feeds Discord](https://discord.com/channels/423430686880301056/471762249476734977)
 OptiFine 1.20.5 = 10%
+## Minecraft
+[Feeds Discord](https://discord.com/channels/302094807046684672/1136326045918834859)
