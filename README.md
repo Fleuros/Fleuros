@@ -41,7 +41,7 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 | Emotes                   | Emotes-v1.1.2.jar           | ✅       |                         | [Feed GitHub](https://github.com/felixstaude/Emotes/releases) |
 | CoreProtect              | CoreProtect-22.2.jar        | ✅       |                         | [Feed GitHub](https://github.com/PlayPro/CoreProtect/releases) |
 | DiscordSRV               | DiscordSRV-Build-1.27.0.jar | ✅       |                         | [Feed GitHub](https://github.com/DiscordSRV/DiscordSRV/releases) |
-| GriefPrevention          | 16.18.2                     | ✅       |                         | [Feed GitHub](https://github.com/GriefPrevention/GriefPrevention/releases) |
+| GriefPrevention          | 16.18.2                     | ❌       |  ✅                       | [Feed GitHub](https://github.com/GriefPrevention/GriefPrevention/releases) |
 | MusicBox                 | MusicBox-2.1.0-all.jar      | ✅       |                         | [Feed Spigot](https://www.spigotmc.org/resources/musicbox-custom-noteblockmusic-on-discs.67949/updates) |
 | NoteBlockAPI             | NoteBlockAPI-1.6.2.jar      | ✅       |                         | [Feed GitHub](https://github.com/koca2000/NoteBlockAPI/releases) |
 | voicechat                | voicechat-bukkit-2.5.12.jar | ✅       |                         | [Feed Discord](https://discord.com/channels/854659575324344340/854661863924563999) / [Feed modrinth](https://modrinth.com/plugin/simple-voice-chat/versions#all-versions) |
