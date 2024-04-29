@@ -3,7 +3,7 @@
 ## Jouez avec nous
 **IP** : 5.196.7.147
 
-**Version** : 1.20.4
+**Version** : 1.20.5
 <p align="left">
     <a href="https://discord.gg/tNp9nrd">
         <img src="https://i.imgur.com/JgDt1Fl.png" width="300">
@@ -28,3 +28,6 @@
 Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potions par exemple :
 - Demandez aux autres personnes sur le serveur ou sur le Discord
 - Ou utilisez le [Minecraft Wiki](https://fr.minecraft.wiki)
+## Les prochaines mises à jour
+[Feed](https://github.com/Fleuros/Fleuros/blob/main/feeds.md)
+
