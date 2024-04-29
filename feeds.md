@@ -1,4 +1,13 @@
 # Prochaines mises à jour
+| Plugins et autres        | Version sur le serveur      | A jour ?|
+| ------------------------ | --------------------------- | ------- |
+| Dynmap                   | 3.7-beta-5-spigot.jar       | ✅      |
+| PaperMC                  | paper.1.20.5-21.jar         | ✅      |
+| OptiFine                 | OptiFine_1.20.4_HD_U_I7.jar | ❌      |
+| LagFixer                 | LagFixer-1.3.04 b68.jar     | ✅      |
+| Spark                    | spark-1.10.64-bukkit.jar    | ✅      |
+| AntiPopup                | AntiPopup-7.3.jar           | ❌      |
+| Minecraft                | 1.20.5                      | ✅      |
 ## Dynmap
 [Feeds Discord/Github](https://discord.com/channels/722722769950998560/722724450570600468)
 ## PaperMC
