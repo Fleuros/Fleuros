@@ -1,20 +1,20 @@
 # Prochaines mises à jour
-| Plugins et autres        | Version sur le serveur      | A jour ? |
-| ------------------------ | --------------------------- | -------- |
-| Dynmap                   | 3.7-beta-5-spigot.jar       | ✅       |
-| PaperMC                  | paper.1.20.5-21.jar         | ✅       |
-| OptiFine                 | OptiFine_1.20.4_HD_U_I7.jar | ❌       |
-| LagFixer                 | LagFixer-1.3.04 b68.jar     | ✅       |
-| Spark                    | spark-1.10.64-bukkit.jar    | ✅       |
-| AntiPopup                | AntiPopup-7.3.jar           | ❌       |
-| Minecraft                | 1.20.5                      | ✅       |
-| Emotes                   | Emotes-v1.1.2.jar           | ✅       |
-| CoreProtect              | CoreProtect-22.2.jar        | ✅       |
-| DiscordSRV               | DiscordSRV-Build-1.27.0.jar | ✅       |
-| GriefPrevention          | 16.18.2                     | ✅       |
-| MusicBox                 | MusicBox-2.1.0-all.jar      | ✅       |
-| NoteBlockAPI             | NoteBlockAPI-1.6.2.jar      | ✅       |
-| voicechat                | voicechat-bukkit-2.5.12.jar | ✅       |
+| Plugins et autres        | Version sur le serveur      | A jour ? | Mise à jour disponible ? |
+| ------------------------ | --------------------------- | -------- | ------------------------ |
+| Dynmap                   | 3.7-beta-5-spigot.jar       | ✅       |                         |
+| PaperMC                  | paper.1.20.5-21.jar         | ✅       |                         |
+| OptiFine                 | OptiFine_1.20.4_HD_U_I7.jar | ❌       | ❌                      |
+| LagFixer                 | LagFixer-1.3.04 b68.jar     | ✅       |                         |
+| Spark                    | spark-1.10.64-bukkit.jar    | ✅       |                         |
+| AntiPopup                | AntiPopup-7.3.jar           | ❌       | ❌                      |
+| Minecraft                | 1.20.5                      | ✅       |                         |
+| Emotes                   | Emotes-v1.1.2.jar           | ✅       |                         |
+| CoreProtect              | CoreProtect-22.2.jar        | ✅       |                         |
+| DiscordSRV               | DiscordSRV-Build-1.27.0.jar | ✅       |                         |
+| GriefPrevention          | 16.18.2                     | ✅       |                         |
+| MusicBox                 | MusicBox-2.1.0-all.jar      | ✅       |                         |
+| NoteBlockAPI             | NoteBlockAPI-1.6.2.jar      | ✅       |                         |
+| voicechat                | voicechat-bukkit-2.5.12.jar | ✅       |                         |
 ## Dynmap
 [Feeds Discord/Github](https://discord.com/channels/722722769950998560/722724450570600468)
 ## PaperMC
