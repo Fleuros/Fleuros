@@ -32,7 +32,7 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 | Plugins et autres        | Version sur le serveur      | A jour ? | Mise à jour disponible ? | Pour suivre les mises à jour |
 | ------------------------ | --------------------------- | -------- | ------------------------ | ---------------------------- |
 | Dynmap                   | 3.7-beta-5-spigot.jar       | ✅       |                         | [Feed Discord](https://discord.com/channels/722722769950998560/722724450570600468) / [Feed Spigot](https://www.spigotmc.org/resources/dynmap%C2%AE.274/updates) |
-| PaperMC                  | paper.1.20.5-21.jar         | ✅       |                         | [Feed Discord](https://discord.com/channels/289587909051416579/1232294974603661312) / [Feed Site web](https://papermc.io/downloads/paper) |
+| PaperMC                  | paper.1.20.5-21.jar         | ❌       | ✅                       | [Feed Discord](https://discord.com/channels/289587909051416579/1232294974603661312) / [Feed Site web](https://papermc.io/downloads/paper) |
 | OptiFine                 | OptiFine_1.20.4_HD_U_I7.jar | ❌       | ❌                      | [Feed Discord](https://discord.com/channels/423430686880301056/471762249476734977) OptiFine 1.20.5 = 10% |
 | LagFixer                 | LagFixer-1.3.04 b68.jar     | ✅       |                         | [Feed Site web](https://www.spigotmc.org/resources/1-17-1-20-5-lagfixer-%E2%9A%A1%EF%B8%8F-best-performance-solution-%E2%AD%95-500-servers-%E2%9C%85-folia-supported.111684/updates) |
 | Spark                    | spark-1.10.64-bukkit.jar    | ✅       |                         | [Feed Site web](https://spark.lucko.me/download) |
