@@ -6,7 +6,6 @@ Dans l'intérêt de favoriser un environnement ouvert et accueillant, nous nous 
 
 Exemples de comportements qui contribuent à créer un environnement positif :
 
-* Utiliser un langage accueillant et inclusif
 * Respecter les points de vue et les expériences des autres
 * Accepter gracieusement les critiques constructives
 * Se concentrer sur ce qui est meilleur pour la communauté
