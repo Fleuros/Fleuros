@@ -3,7 +3,7 @@
 ## Jouez avec nous
 **IP** : 5.196.7.147
 
-**Version** : 1.20.5
+**Version** : 1.20.6
 <p align="left">
     <a href="https://discord.gg/tNp9nrd">
         <img src="https://i.imgur.com/JgDt1Fl.png" width="300">
