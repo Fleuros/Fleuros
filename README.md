@@ -30,14 +30,14 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 - Demandez aux autres personnes sur le serveur ou sur le Discord
 - Ou utilisez le [Minecraft Wiki](https://fr.minecraft.wiki)
 ## Prochaines mises à jour
-| 🐛 | Plugins et autres        | Version sur le serveur      | A jour ? | Mise à jour disponible ? | Pour suivre les mises à jour |
-| -- | ------------------------ | --------------------------- | -------- | ------------------------ | ---------------------------- |
+| 🐛 | Plugins et autres        | Version sur le serveur      | A jour ? | Mise à jour disponible ? | Pour suivre les mises à jour | Explications |
+| -- | ------------------------ | --------------------------- | -------- | ------------------------ | ---------------------------- | ------------ |
 |    | Dynmap                   | 3.7-beta-5-spigot       | ✅       |                         | [Feed Discord](https://discord.com/channels/722722769950998560/722724450570600468) / [Feed Spigot](https://www.spigotmc.org/resources/dynmap%C2%AE.274/updates) |
 |    | PaperMC                  | paper.1.20.6-35         | ✅       |                         | [Feed Discord](https://discord.com/channels/289587909051416579/1232294974603661312) / [Feed Site web](https://papermc.io/downloads/paper) |
 |    | Iris Shaders             | Iris 1.7 1.20.5/6       | ✅       |                         | [Feed modrinth](https://modrinth.com/mod/iris/versions#all-versions) |
 |    | LagFixer                 | LagFixer-1.3.07         | ✅       |                         | [Feed Spigot](https://www.spigotmc.org/resources/1-17-1-20-5-lagfixer-%E2%9A%A1%EF%B8%8F-best-performance-solution-%E2%AD%95-500-servers-%E2%9C%85-folia-supported.111684/updates) |
 |    | Spark                    | spark-1.10.65-bukkit    | ✅       |                         | [Feed Site web](https://spark.lucko.me/download) |
-|✖️📝| AntiPopup                | AntiPopup-7.3-HOTFIX    | ✅       |                         | [Feed Github](https://github.com/KaspianDev/AntiPopup/releases) / [Feed Site web](https://polymart.org/resource/antipopup-pro.4921/updates) |
+|✖️  | AntiPopup                | AntiPopup-7.3-HOTFIX    | ✅       |                         | [Feed Github](https://github.com/KaspianDev/AntiPopup/releases) / [Feed Site web](https://polymart.org/resource/antipopup-pro.4921/updates) | N'est pas encore sorti en 1.20.5 [Antipopup#84](https://github.com/KaspianDev/AntiPopup/issues/84#issuecomment-2081418532) |
 |    | Minecraft                | 1.20.6                  | ✅       |                        | [Feed Discord](https://discord.com/channels/302094807046684672/1136326045918834859) / [java-changelogs Discord](https://discord.com/channels/302094807046684672/656622314309550129) |
 |    | Emotes                   | Emotes-v1.1.2           | ✅       |                         | [Feed GitHub](https://github.com/felixstaude/Emotes/releases) |
 |    | CoreProtect              | CoreProtect-22.2        | ✅       |                         | [Feed GitHub](https://github.com/PlayPro/CoreProtect/releases) |
@@ -52,4 +52,3 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 
 Légende :
 - ✖️ = Ne fonctionne plus pour le moment
-- 📝 = Explications dans les [notes](https://github.com/Fleuros/Fleuros/blob/main/notes.md)
