@@ -46,7 +46,7 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 |    | MusicBox                 | MusicBox-2.1.0-all      | ✅       |                         | [Feed Spigot](https://www.spigotmc.org/resources/musicbox-custom-noteblockmusic-on-discs.67949/updates) |
 |    | NoteBlockAPI             | NoteBlockAPI-1.6.2      | ✅       |                         | [Feed GitHub](https://github.com/koca2000/NoteBlockAPI/releases) |
 |    | voicechat                | voicechat-bukkit-2.5.13 | ✅       |                         | [Feed Discord](https://discord.com/channels/854659575324344340/854661863924563999) / [Feed modrinth](https://modrinth.com/plugin/simple-voice-chat/versions#all-versions) |
-|    | ViaVersion               | ViaVersion-4.10.1-SNAPSHOT+336 | ✅ |                      | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
+|    | ViaVersion               | ViaVersion-4.10.1-SNAPSHOT+336 | ❌ | ✅                     | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
 |    | ViaBackwards             | ViaBackwards-4.10.1-SNAPSHOT+198 | ✅ |                    | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
 |    | ViaRewind                | ViaRewind-3.1.1-SNAPSHOT+136 | ✅ |                        | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaRewind/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
 
