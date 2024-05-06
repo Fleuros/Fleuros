@@ -30,7 +30,7 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 - Demandez aux autres personnes sur le serveur ou sur le Discord
 - Ou utilisez le [Minecraft Wiki](https://fr.minecraft.wiki)
 ## Prochaines mises à jour
-| 🐛 | Plugins et autres        | Version sur le serveur      | A jour ? | Mise à jour disponible ? | Pour suivre les mises à jour | Explications |
+| 🐛 | Plugins et autres        | Version sur le serveur      | A jour ? | Mise à jour disponible ? | Suivre les mises à jour | Explications |
 | -- | ------------------------ | --------------------------- | -------- | ------------------------ | ---------------------------- | ------------ |
 |    | Dynmap                   | 3.7-beta-5-spigot       | ✅       |                         | [Feed Discord](https://discord.com/channels/722722769950998560/722724450570600468) / [Feed Spigot](https://www.spigotmc.org/resources/dynmap%C2%AE.274/updates) |
 |    | PaperMC                  | paper.1.20.6-49         | ✅       |                         | [Feed Discord](https://discord.com/channels/289587909051416579/1232294974603661312) / [Feed Site web](https://papermc.io/downloads/paper) |
