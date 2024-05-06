@@ -36,7 +36,7 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 |    | PaperMC                  | paper.1.20.6-49         | ✅       |                         | [Feed Discord](https://discord.com/channels/289587909051416579/1232294974603661312) / [Feed Site web](https://papermc.io/downloads/paper) |
 |    | Iris Shaders             | Iris 1.7 1.20.5/6       | ✅       |                         | [Feed modrinth](https://modrinth.com/mod/iris/versions#all-versions) |
 |    | LagFixer                 | LagFixer-1.3.08         | ❌       |  ✅                       | [Feed Spigot](https://www.spigotmc.org/resources/1-17-1-20-5-lagfixer-%E2%9A%A1%EF%B8%8F-best-performance-solution-%E2%AD%95-500-servers-%E2%9C%85-folia-supported.111684/updates) |
-|    | Spark                    | spark-1.10.65-bukkit    | ❌       | ✅                        | [Feed Site web](https://spark.lucko.me/download) |
+|    | Spark                    | spark-1.10.66-bukkit    | ✅       |                         | [Feed Site web](https://spark.lucko.me/download) |
 |✖️  | AntiPopup                | AntiPopup-7.3-HOTFIX    | ✅       |                         | [Feed Github](https://github.com/KaspianDev/AntiPopup/releases) / [Feed Site web](https://polymart.org/resource/antipopup-pro.4921/updates) | N'est pas encore sorti en 1.20.5/6 [#84](https://github.com/KaspianDev/AntiPopup/issues/84#issuecomment-2081418532) |
 |    | Minecraft                | 1.20.6                  | ✅       |                        | [Feed Discord](https://discord.com/channels/302094807046684672/1136326045918834859) / [java-changelogs Discord](https://discord.com/channels/302094807046684672/656622314309550129) |
 |    | Emotes                   | Emotes-v1.1.2           | ✅       |                         | [Feed GitHub](https://github.com/felixstaude/Emotes/releases) |
@@ -46,8 +46,8 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 |✖️   | MusicBox                 | MusicBox-2.1.0-all      | ✅       |                         | [Feed Spigot](https://www.spigotmc.org/resources/musicbox-custom-noteblockmusic-on-discs.67949/updates) | N'est pas encore sorti en 1.20.5/6 [#37](https://github.com/Spliterash/MusicBox/issues/37) |
 |    | NoteBlockAPI             | NoteBlockAPI-1.6.2      | ✅       |                         | [Feed GitHub](https://github.com/koca2000/NoteBlockAPI/releases) |
 |    | voicechat                | voicechat-bukkit-2.5.13 | ✅       |                         | [Feed Discord](https://discord.com/channels/854659575324344340/854661863924563999) / [Feed modrinth](https://modrinth.com/plugin/simple-voice-chat/versions#all-versions) |
-|    | ViaVersion               | ViaVersion-4.10.2-SNAPSHOT+345 | ❌ | ✅                     | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
-|    | ViaBackwards             | ViaBackwards-4.10.1 | ❌ | ✅                   | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
+|    | ViaVersion               | ViaVersion-4.10.2-SNAPSHOT+347 | ✅ |                      | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
+|    | ViaBackwards             | ViaBackwards-4.10.2-SNAPSHOT+205 | ✅ |                    | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
 |    | ViaRewind                | ViaRewind-3.1.1 | ✅ |                        | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaRewind/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
 
 Légende :
