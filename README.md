@@ -48,7 +48,7 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 |    | voicechat                | voicechat-bukkit-2.5.13 | ✅       |                         | [Feed Discord](https://discord.com/channels/854659575324344340/854661863924563999) / [Feed modrinth](https://modrinth.com/plugin/simple-voice-chat/versions#all-versions) |
 |    | ViaVersion               | ViaVersion-4.10.2-SNAPSHOT+347 | ❌ | ✅                     | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
 |    | ViaBackwards             | ViaBackwards-4.10.2-SNAPSHOT+208 | ✅ |                    | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
-|    | ViaRewind                | ViaRewind-3.1.2-SNAPSHOT+138 | ✅ |                        | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaRewind/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
+|    | ViaRewind                | ViaRewind-3.1.2-SNAPSHOT+138 | ❌ | ✅                       | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaRewind/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
 
 Légende :
 - ✖️ = Ne fonctionne plus pour le moment
