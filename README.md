@@ -13,8 +13,8 @@
 </p>
 
 ## Plugins
-- [dynmap](https://github.com/webbukkit/dynmap) pour [voir ici les cartes en temps réel](http://5.196.7.147:8123).
-- [voicechat](https://github.com/henkelmax/simple-voice-chat) pour parler en vocal en jeu. Nécessite d'avoir installé le mode [Simple-voice-chat](https://modrinth.com/plugin/simple-voice-chat/version/bukkit-2.5.12) sur votre jeu.
+- [Dynmap](https://github.com/webbukkit/dynmap) pour [voir ici les cartes en temps réel](http://5.196.7.147:8123).
+- [Voicechat](https://github.com/henkelmax/simple-voice-chat) pour parler en vocal en jeu. Nécessite d'avoir installé le mode [Simple-voice-chat](https://modrinth.com/plugin/simple-voice-chat/version/bukkit-2.5.12) sur votre jeu.
 - [AntiPopup](https://github.com/KaspianDev/AntiPopup) supprime la popup du système de signalement de chat.
 - [DiscordSRV](https://github.com/DiscordSRV/DiscordSRV) pour connecter Discord avec le jeu.
 - [NoteBlockAPI](https://github.com/koca2000/NoteBlockAPI) nécessaire pour faire fonctionner MusicBox.
