@@ -33,7 +33,7 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 | 🐛 | Plugins et autres        | Version sur le serveur      | A jour ? | Mise à jour disponible ? | Suivre les mises à jour | Explications |
 | -- | ------------------------ | --------------------------- | -------- | ------------------------ | ---------------------------- | ------------ |
 |    | Dynmap                   | 3.7-beta-5-spigot       | ✅       |                         | [Feed Discord](https://discord.com/channels/722722769950998560/722724450570600468) / [Feed Spigot](https://www.spigotmc.org/resources/dynmap%C2%AE.274/updates) |
-|    | PaperMC                  | paper.1.20.6-62         | ✅       |                         | [Feed Discord](https://discord.com/channels/289587909051416579/1232294974603661312) / [Feed Site web](https://papermc.io/downloads/paper) |
+|    | PaperMC                  | paper.1.20.6-62         | ❌      | ✅                        | [Feed Discord](https://discord.com/channels/289587909051416579/1232294974603661312) / [Feed Site web](https://papermc.io/downloads/paper) |
 |    | Iris Shaders             | Iris 1.7 1.20.5/6       | ✅       |                         | [Feed modrinth](https://modrinth.com/mod/iris/versions#all-versions) |
 |    | LagFixer                 | LagFixer-1.3.09         | ✅       |                         | [Feed Spigot](https://www.spigotmc.org/resources/1-17-1-20-5-lagfixer-%E2%9A%A1%EF%B8%8F-best-performance-solution-%E2%AD%95-500-servers-%E2%9C%85-folia-supported.111684/updates) |
 |    | Spark                    | spark-1.10.66-bukkit    | ✅       |                         | [Feed Site web](https://spark.lucko.me/download) |
@@ -48,7 +48,7 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 |    | voicechat                | voicechat-bukkit-2.5.13 | ✅       |                         | [Feed Discord](https://discord.com/channels/854659575324344340/854661863924563999) / [Feed modrinth](https://modrinth.com/plugin/simple-voice-chat/versions#all-versions) |
 |    | ViaVersion               | ViaVersion-4.10.2 | ✅ |                      | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
 |    | ViaBackwards             | ViaBackwards-4.10.3-SNAPSHOT+216 | ✅ |                    | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
-|    | ViaRewind                | ViaRewind-3.1.2 | ✅ |                        | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaRewind/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
+|    | ViaRewind                | ViaRewind-3.1.2 | ❌ |  ✅                      | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaRewind/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
 
 Légende :
 - ✖️ = Ne fonctionne plus pour le moment
