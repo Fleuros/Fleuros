@@ -32,7 +32,7 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 ## Prochaines mises à jour
 | 🐛 | Plugins et autres        | Version sur le serveur      | A jour ? | Mise à jour disponible ? | Suivre les mises à jour | Explications |
 | -- | ------------------------ | --------------------------- | -------- | ------------------------ | ---------------------------- | ------------ |
-|    | Dynmap                   | 3.7-beta-5-spigot       | ✅       |                         | [Feed Discord](https://discord.com/channels/722722769950998560/722724450570600468) / [Feed Spigot](https://www.spigotmc.org/resources/dynmap%C2%AE.274/updates) |
+|    | Dynmap                   | 3.7-beta-5-spigot       | ✅       |                         | [Feed Spigot](https://www.spigotmc.org/resources/dynmap%C2%AE.274/updates) / [Feed Discord](https://discord.com/channels/722722769950998560/722724450570600468) |
 |    | PaperMC                  | paper.1.20.6-77         | ❌      |  ✅                       | [Feed Site web](https://papermc.io/downloads/paper) / [Feed Discord](https://discord.com/channels/289587909051416579/1232294974603661312) |
 |    | Iris Shaders             | Iris 1.7 1.20.5/6       | ✅       |                         | [Feed modrinth](https://modrinth.com/mod/iris/versions#all-versions) |
 |  ✖️  | LagFixer                 | 1.3.10         | ✅       |                         | [Feed Spigot](https://www.spigotmc.org/resources/1-17-1-20-5-lagfixer-%E2%9A%A1%EF%B8%8F-best-performance-solution-%E2%AD%95-500-servers-%E2%9C%85-folia-supported.111684/updates) |
