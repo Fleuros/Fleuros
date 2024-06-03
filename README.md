@@ -47,8 +47,8 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 |    | NoteBlockAPI             | 1.6.2                       | ✅       |                         | [Feed GitHub](https://github.com/koca2000/NoteBlockAPI/releases) / [Feed modrinth](https://modrinth.com/plugin/noteblockapi/versions) |
 |    | VoiceChat                | bukkit-2.5.13     | ❌ |  ✅ 2.5.15                       | [Feed modrinth](https://modrinth.com/plugin/simple-voice-chat/versions#all-versions) / [Feed Discord](https://discord.com/channels/854659575324344340/854661863924563999) |
 |    | ViaVersion               | 5.0.0-SNAPSHOT+390          | ❌ |  ✅ 396                  | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
-|    | ViaBackwards             | 5.0.0-SNAPSHOT+232          | ❌ | ✅ 234                   | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
-|    | ViaRewind                | 4.0.0-SNAPSHOT+156          | ❌ | ✅ 158                       | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaRewind/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
+|    | ViaBackwards             | 5.0.0-SNAPSHOT+232          | ❌ | ✅ 235                   | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
+|    | ViaRewind                | 4.0.0-SNAPSHOT+156          | ❌ | ✅ 159                       | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaRewind/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
 
 Légende :
 - ✖️ = Ne fonctionne plus pour le moment
