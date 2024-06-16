@@ -46,9 +46,9 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 | ✖️ | MusicBox                 | 2.1.2-all                   | ✅ |                         | [Feed Spigot](https://www.spigotmc.org/resources/musicbox-custom-noteblockmusic-on-discs.67949/updates) / [Feed GitHub](https://github.com/Spliterash/MusicBox/releases) | Ne fonctionne plus [#37](https://github.com/Spliterash/MusicBox/issues/37)        |
 |    | NoteBlockAPI             | 1.6.2                       | ✅       |                         | [Feed GitHub](https://github.com/koca2000/NoteBlockAPI/releases) / [Feed modrinth](https://modrinth.com/plugin/noteblockapi/versions) |
 |    | VoiceChat                | bukkit-2.5.15     | ❌ |  ✅ 2.5.16                       | [Feed modrinth](https://modrinth.com/plugin/simple-voice-chat/versions#all-versions) / [Feed Discord](https://discord.com/channels/854659575324344340/854661863924563999) |
-|    | ViaVersion               | 5.0.0-SNAPSHOT+413          | ❌ | ✅ 416                 | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
-|    | ViaBackwards             | 5.0.0-SNAPSHOT+247          | ❌ | ✅ 248                  | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
-|    | ViaRewind                | 4.0.0-SNAPSHOT+164          | ❌ | ✅ 165                       | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaRewind/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
+|    | ViaVersion               | 5.0.0-SNAPSHOT+413          | ❌ | ✅ 5.0.0                 | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
+|    | ViaBackwards             | 5.0.0-SNAPSHOT+247          | ❌ | ✅ 5.0.0                  | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
+|    | ViaRewind                | 4.0.0-SNAPSHOT+164          | ❌ | ✅ 4.0.0                       | [Feed Hangar](https://hangar.papermc.io/ViaVersion/ViaRewind/versions) / [Feed Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
 
 Légende :
 - ✖️ = Ne fonctionne plus pour le moment
