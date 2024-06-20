@@ -23,7 +23,7 @@
 - [GriefPrevention](https://github.com/GriefPrevention/GriefPrevention) pour protéger vos constructions et vos coffres avec une pelle en or.
 - [Spark](https://github.com/lucko/spark) pour suivre les performances du serveur.
 - [LagFixer](https://www.spigotmc.org/resources/1-17-1-20-4-lagfixer-%E2%9A%A1%EF%B8%8F-best-performance-solution-%E2%AD%95-well-optimized-%E2%9C%85-folia-supported.111684) empêche les lags.
-- [Emotes](https://github.com/felixstaude/Emotes) pour avoir les emotes Kappa, KEKW, ... dans le chat du jeu. Nécessite d'avoir installé le pack de texture [Emotes Twitch](https://github.com/Fleuros/Fleuros/releases/tag/1.20.x) sur votre jeu.
+- [Streamotes](https://github.com/XspeedPL/Streamotes) pour avoir les emotes Kappa, KEKW, Twitch, 7tv, BTTV, FFZ dans le chat du jeu. Nécessite d'avoir [Streamotes](https://modrinth.com/plugin/streamotes/version/hGQAtxk1) sur votre jeu.
 - [ViaVersion](https://hangar.papermc.io/ViaVersion/ViaVersion) [ViaBackwards](https://hangar.papermc.io/ViaVersion/ViaBackwards) [ViaRewind](https://hangar.papermc.io/ViaVersion/ViaRewind) pour rejoindre le serveur dans la version de votre Minecraft que vous voulez.
 ## Questions sur Minecraft
 Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potions par exemple :
@@ -39,7 +39,8 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 |    | Spark                    | 1.10.73-bukkit              | ✅ |                         | [Feed Site web](https://spark.lucko.me/download) |
 | ✖️ | AntiPopup                | 8.1                         | ✅ |                         | [Feed Github](https://github.com/KaspianDev/AntiPopup/releases) / [Feed Site web](https://polymart.org/resource/antipopup-pro.4921/updates) / [Feed Discord](https://discord.com/channels/848971497220735026/1004362516249452584) | Pas encore disponible en 1.21 [#92](https://github.com/KaspianDev/AntiPopup/issues/92)
 |    | Minecraft                | 1.21                      | ✅ |                        | [Feed Discord](https://discord.com/channels/302094807046684672/1136326045918834859) / [java-changelogs Discord](https://discord.com/channels/302094807046684672/656622314309550129) |
-|    | Emotes                   | 1.1.2                       | ✅ |                         | [Feed GitHub](https://github.com/felixstaude/Emotes/releases) |
+|    | Streamotes               | 1.0.0                 | ✅ |                        | [Feed modrinth](https://modrinth.com/plugin/streamotes/versions) |                 |
+|    | Emotes                   | 1.1.2                       | ✅ |                         | [Feed GitHub](https://github.com/felixstaude/Emotes/releases) | A désinstaller |
 |    | CoreProtect              | 22.4                        | ✅ |                      | [Feed GitHub](https://github.com/PlayPro/CoreProtect/releases) / [Feed Discord](https://discord.com/channels/348680641560313868/471507285399830563) / [Feed modrinth](https://modrinth.com/plugin/coreprotect/versions) | [23.0](https://www.patreon.com/posts/106398988) Disponible en early access pour les premiums |
 |    | DiscordSRV               | 1.27.0 | ❌ |  ✅ 1.28.0-SNAPSHOT-d4b27cc                       | [Feed GitHub](https://github.com/DiscordSRV/DiscordSRV/releases) / [Feed Discord](https://discord.com/channels/135634590575493120/1235649373241610310) / [SNAPSHOT](https://snapshot.discordsrv.com) | Snapshot instable
 |    | GriefPrevention          | 16.18.3                     | ✅ |                         | [Feed GitHub](https://github.com/GriefPrevention/GriefPrevention/releases) / [Feed modrinth](https://modrinth.com/plugin/griefprevention/versions) |
