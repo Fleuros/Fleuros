@@ -22,7 +22,7 @@
 - [CoreProtect](https://github.com/PlayPro/CoreProtect) pour avoir l'historique de qui va dans les coffres des autres, qui casse, etc.
 - [GriefPrevention](https://github.com/GriefPrevention/GriefPrevention) pour protéger vos constructions et vos coffres avec une pelle en or.
 - [Spark](https://github.com/lucko/spark) pour suivre les performances du serveur.
-- [LagFixer](https://www.spigotmc.org/resources/1-17-1-20-4-lagfixer-%E2%9A%A1%EF%B8%8F-best-performance-solution-%E2%AD%95-well-optimized-%E2%9C%85-folia-supported.111684) empêche les lags.
+- [LagFixer](https://modrinth.com/plugin/lagfixer) empêche les lags.
 - [Streamotes](https://github.com/XspeedPL/Streamotes) pour avoir les emotes Kappa, KEKW, Twitch, 7tv, BTTV, FFZ dans le chat du jeu. Nécessite d'avoir [Streamotes](https://modrinth.com/plugin/streamotes/version/hGQAtxk1) sur votre jeu.
 - [ViaVersion](https://hangar.papermc.io/ViaVersion/ViaVersion) [ViaBackwards](https://hangar.papermc.io/ViaVersion/ViaBackwards) [ViaRewind](https://hangar.papermc.io/ViaVersion/ViaRewind) pour rejoindre le serveur dans la version de votre Minecraft que vous voulez.
 ## Questions sur Minecraft
