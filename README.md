@@ -45,8 +45,8 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 | ✖️ | MusicBox                 | 2.1.2-all                   | ✅ |                         | [Spigot](https://www.spigotmc.org/resources/musicbox-custom-noteblockmusic-on-discs.67949/updates) / [GitHub](https://github.com/Spliterash/MusicBox/releases) | Ne fonctionne plus [#37](https://github.com/Spliterash/MusicBox/issues/37)        |
 |    | NoteBlockAPI             | 1.6.2                       | ✅       |                         | [GitHub](https://github.com/koca2000/NoteBlockAPI/releases) / [modrinth](https://modrinth.com/plugin/noteblockapi/versions) |
 |    | VoiceChat                | bukkit-2.5.17     | ❌ | ✅ 2.5.19                        | [modrinth](https://modrinth.com/plugin/simple-voice-chat/versions#all-versions) / [Discord](https://discord.com/channels/854659575324344340/854661863924563999) |
-|    | ViaVersion               | 5.0.3-SNAPSHOT+490          | ❌ | ✅ 495          | [Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) / [Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
-|    | ViaBackwards             | 5.0.3-SNAPSHOT+295        | ❌ | ✅ 298           | [Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) / [Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
+|    | ViaVersion               | 5.0.3-SNAPSHOT+490          | ❌ | ✅ 5.0.3          | [Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) / [Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
+|    | ViaBackwards             | 5.0.3-SNAPSHOT+295        | ❌ | ✅ 5.0.3           | [Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) / [Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
 |    | ViaRewind                | 4.0.3-SNAPSHOT+191     | ❌ | ✅ 192           | [Hangar](https://hangar.papermc.io/ViaVersion/ViaRewind/versions) / [Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
 
 Légende :
