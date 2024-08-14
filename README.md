@@ -46,7 +46,7 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 |    | NoteBlockAPI             | 1.6.2                       | ✅       |                         | [GitHub](https://github.com/koca2000/NoteBlockAPI/releases) / [modrinth](https://modrinth.com/plugin/noteblockapi/versions) |
 |  | VoiceChat                | bukkit-2.5.20     | ✅ |                           | [modrinth](https://modrinth.com/plugin/simple-voice-chat/versions#all-versions) / [Discord](https://discord.com/channels/854659575324344340/854661863924563999) | 
 |    | ViaVersion               | 5.0.4-SNAPSHOT+500          | ❌ | ✅ 501             | [Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) / [Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
-|    | ViaBackwards             | 5.0.3        | ✅ |               | [Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) / [Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
+|    | ViaBackwards             | 5.0.3        | ❌ | ✅ 5.0.4-SNAPSHOT+306              | [Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) / [Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
 |    | ViaRewind                | 4.0.3-SNAPSHOT+191     | ❌ | ✅ 194              | [Hangar](https://hangar.papermc.io/ViaVersion/ViaRewind/versions) / [Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
 
 Légende :
