@@ -17,8 +17,6 @@
 - [Voicechat](https://github.com/henkelmax/simple-voice-chat) pour parler en vocal en jeu. Nécessite d'avoir installé le mode [Simple-voice-chat](https://modrinth.com/plugin/simple-voice-chat/version/bukkit-2.5.13) sur votre jeu.
 - [AntiPopup](https://github.com/KaspianDev/AntiPopup) supprime la popup du système de signalement de chat.
 - [DiscordSRV](https://github.com/DiscordSRV/DiscordSRV) pour connecter Discord avec le jeu.
-- [NoteBlockAPI](https://github.com/koca2000/NoteBlockAPI) nécessaire pour faire fonctionner MusicBox.
-- [MusicBox](https://github.com/Spliterash/MusicBox) rajoute des musiques, plus de 380 sur Fleuros.
 - [CoreProtect](https://github.com/PlayPro/CoreProtect) pour avoir l'historique de qui va dans les coffres des autres, qui casse, etc.
 - [GriefPrevention](https://github.com/GriefPrevention/GriefPrevention) pour protéger vos constructions et vos coffres avec une pelle en or.
 - [Spark](https://github.com/lucko/spark) pour suivre les performances du serveur.
