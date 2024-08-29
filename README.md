@@ -41,8 +41,8 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 |    | DiscordSRV               | 1.28.0 | ✅ | ☑️ 1.28.1-Snapshot-219834a           | [GitHub](https://github.com/DiscordSRV/DiscordSRV/releases) / [Discord](https://discord.com/channels/135634590575493120/1235649373241610310) / [SNAPSHOT](https://snapshot.discordsrv.com) | 
 |    | GriefPrevention          | 16.18.4                     | ✅ |                         | [GitHub](https://github.com/GriefPrevention/GriefPrevention/releases) / [modrinth](https://modrinth.com/plugin/griefprevention/versions) |
 |    | VoiceChat                | bukkit-2.5.20     | ✅ |                       | [modrinth](https://modrinth.com/plugin/simple-voice-chat/versions#all-versions) / [Discord](https://discord.com/channels/854659575324344340/854661863924563999) | 
-|    | ViaVersion               | 5.0.4-SNAPSHOT+517          | ❌ | ✅ 523             | [Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) / [Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
-|    | ViaBackwards             | 5.0.4-SNAPSHOT+311        | ❌ | ✅ 314                | [Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) / [Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
+|    | ViaVersion               | 5.0.4-SNAPSHOT+517          | ❌ | ✅ 525             | [Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) / [Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
+|    | ViaBackwards             | 5.0.4-SNAPSHOT+311        | ❌ | ✅ 317                | [Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) / [Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
 |    | ViaRewind                | 4.0.3-SNAPSHOT+194     | ❌ | ✅ 196               | [Hangar](https://hangar.papermc.io/ViaVersion/ViaRewind/versions) / [Discord](https://discord.com/channels/316206679014244363/316212572774858761) |
 
 Légende :
