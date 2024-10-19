@@ -47,3 +47,4 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 
 Légende :
 - ✖️ = Ne fonctionne plus pour le moment 
+ 
