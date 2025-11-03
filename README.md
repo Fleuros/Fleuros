@@ -42,7 +42,7 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 |    | GriefPrevention          | 16.18.4                     | ❌ | ✅ 16.18.5                       | [GitHub](https://github.com/GriefPrevention/GriefPrevention/releases) / [modrinth](https://modrinth.com/plugin/griefprevention/versions) |
 |    | VoiceChat                | bukkit-2.5.20      | ❌ | ✅ 2.5.28       | [modrinth](https://modrinth.com/plugin/simple-voice-chat/versions#all-versions) / [Discord](https://discord.com/channels/854659575324344340/854661863924563999) | 
 |    | ViaVersion               | 5.0.4-SNAPSHOT+547        | ❌ | ✅   5.5.2-SNAPSHOT+849  | [Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) / [Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
-|    | ViaBackwards             | 5.0.4-SNAPSHOT+328       | ❌ | ✅   5.5.2-SNAPSHOT+503   | [Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) / [Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
+|    | ViaBackwards             | 5.0.4-SNAPSHOT+328       | ❌ | ✅   5.5.2-SNAPSHOT+505   | [Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) / [Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
 |    | ViaRewind                | 4.0.3-SNAPSHOT+207   | ❌ | ✅  4.0.12-SNAPSHOT+302     | [Hangar](https://hangar.papermc.io/ViaVersion/ViaRewind/versions) / [Discord](https://discord.com/channels/316206679014244363/316212572774858761) | 
 
 Légende :
