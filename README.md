@@ -42,7 +42,7 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 |    | GriefPrevention   | 16.18.4                     | ❌ | ✅ 16.18.5                  | [GitHub](https://github.com/GriefPrevention/GriefPrevention/releases) / [modrinth](https://modrinth.com/plugin/griefprevention/versions) |
 |    | VoiceChat      | bukkit-2.5.20      | ❌ | ✅ 2.6.11     | [modrinth](https://modrinth.com/plugin/simple-voice-chat/versions#all-versions) | 
 |    | ViaVersion  | 5.0.4-SNAPSHOT+547    | ❌ | ✅  5.7.1-SNAPSHOT+892   | [Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) | 
-|    | ViaBackwards    | 5.0.4-SNAPSHOT+328   | ❌ | ✅ 5.7.1-SNAPSHOT+540   | [Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) | 
+|    | ViaBackwards    | 5.0.4-SNAPSHOT+328   | ❌ | ✅ 5.7.1-SNAPSHOT+541   | [Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) | 
 |    | ViaRewind | 4.0.3-SNAPSHOT+207  | ❌ | ✅ 4.0.14-SNAPSHOT+322     | [Hangar](https://hangar.papermc.io/ViaVersion/ViaRewind/versions) | 
 
 Légende :
