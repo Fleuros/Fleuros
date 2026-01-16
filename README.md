@@ -38,7 +38,7 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 |   | AntiPopup   | 9.2                         | ❌ |  ✅ 12.4         | [Github](https://github.com/KaspianDev/AntiPopup/releases) / [Site web](https://polymart.org/resource/antipopup-pro.4921/updates) / [modrinth](https://modrinth.com/plugin/antipopup/versions) | 
 |    | Streamotes    | 1.2.2                 | ❌ | ✅ 1.2.14              | [modrinth](https://modrinth.com/plugin/streamotes/versions) |                 |
 |    | CoreProtect | 22.4                       | ❌ | ✅ 23.1        | [GitHub](https://github.com/PlayPro/CoreProtect/releases) / [modrinth](https://modrinth.com/plugin/coreprotect/versions) |    |
-|    | DiscordSRV  | 1.28.0 | ❌ | ✅ 1.30.4          | [GitHub](https://github.com/DiscordSRV/DiscordSRV/releases) / [SNAPSHOT](https://snapshot.discordsrv.com) | 
+|    | DiscordSRV  | 1.28.0 | ❌ | ✅ 1.30.4          | [GitHub](https://github.com/DiscordSRV/DiscordSRV/releases) | 
 |    | GriefPrevention   | 16.18.4                     | ❌ | ✅ 16.18.5                  | [GitHub](https://github.com/GriefPrevention/GriefPrevention/releases) / [modrinth](https://modrinth.com/plugin/griefprevention/versions) |
 |    | VoiceChat      | bukkit-2.5.20      | ❌ | ✅ 2.6.11     | [modrinth](https://modrinth.com/plugin/simple-voice-chat/versions#all-versions) | 
 |    | ViaVersion  | 5.0.4-SNAPSHOT+547    | ❌ | ✅  5.7.1-SNAPSHOT+894   | [Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) | 
