@@ -28,21 +28,21 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 - Demandez aux autres personnes sur le serveur ou sur le Discord
 - Ou utilisez le [Minecraft Wiki](https://fr.minecraft.wiki)
 ## Prochaines mises à jour
-| 🐛 | Plugins et autres     | Version sur le serveur      | A jour ? | Mise à jour disponible ? | Suivre les mises à jour | Explications |
+| 🐛 | Plugins et autres | Version sur le serveur | A jour ? | Mise à jour disponible ? | Suivre les mises à jour | Explications |
 | -- | ------------------------ | --------------------------- | -------- | ------------------------ | ---------------------------- | ------------ |
-|  | Dynmap  | 3.7-beta-7  | ❌ |    ✅ 3.8      | [modrinth](https://modrinth.com/plugin/dynmap/versions) / [Spigot](https://www.spigotmc.org/resources/dynmap%C2%AE.274/updates) |
-|    | Minecraft   | 1.21.1                      | ❌ |  ✅ 1.21.11  | [Discord](https://discord.com/channels/302094807046684672/1136326045918834859) / [java-changelogs Discord](https://discord.com/channels/302094807046684672/656622314309550129) | 
-|    | PaperMC  | 1.21.1-76          | ❌ | ✅ 1.21.11-100      | [Site web](https://papermc.io/downloads/paper) |  
-|    | Iris Shaders  | 1.8.0 1.21           | ❌ |  ✅ 1.10.5      | [modrinth](https://modrinth.com/mod/iris/versions#all-versions) / [GitHub](https://github.com/IrisShaders/Iris/releases) |
-|    | LagFixer  | 1.3.28                      | ❌ |   ✅ 1.5.1.10       | [modrinth](https://modrinth.com/plugin/lagfixer/versions) / [Spigot](https://www.spigotmc.org/resources/1-17-1-20-5-lagfixer-%E2%9A%A1%EF%B8%8F-best-performance-solution-%E2%AD%95-500-servers-%E2%9C%85-folia-supported.111684/updates) |
-|    | AntiPopup   | 9.2                         | ❌ |  ✅ 12.4         | [Github](https://github.com/KaspianDev/AntiPopup/releases) / [Site web](https://polymart.org/resource/antipopup-pro.4921/updates) / [modrinth](https://modrinth.com/plugin/antipopup/versions) | 
-|    | Streamotes    | 1.2.2                 | ❌ | ✅ 1.2.14              | [modrinth](https://modrinth.com/plugin/streamotes/versions) |                 |
-|    | CoreProtect | 22.4                       | ❌ | ✅ 23.1        | [GitHub](https://github.com/PlayPro/CoreProtect/releases) / [modrinth](https://modrinth.com/plugin/coreprotect/versions) |    |
-|    | DiscordSRV  | 1.28.0 | ❌ | ✅ 1.30.4          | [GitHub](https://github.com/DiscordSRV/DiscordSRV/releases) | 
-|    | GriefPrevention  | 16.18.4                     | ❌ | ✅ 16.18.5                  | [GitHub](https://github.com/GriefPrevention/GriefPrevention/releases) / [modrinth](https://modrinth.com/plugin/griefprevention/versions) |
-|    | VoiceChat      | bukkit-2.5.20      | ❌ | ✅ 2.6.11     | [modrinth](https://modrinth.com/plugin/simple-voice-chat/versions#all-versions) | 
-|    | ViaVersion  | 5.0.4-SNAPSHOT+547    | ❌ | ✅   5.7.2-SNAPSHOT+912  | [Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) | 
-|    | ViaBackwards    | 5.0.4-SNAPSHOT+328   | ❌ | ✅ 5.7.2-SNAPSHOT+547   | [Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) | 
+|  | Dynmap | 3.7-beta-7  | ❌ |    ✅ 3.8      | [modrinth](https://modrinth.com/plugin/dynmap/versions) / [Spigot](https://www.spigotmc.org/resources/dynmap%C2%AE.274/updates) |
+|    | Minecraft | 1.21.1                      | ❌ |  ✅ 1.21.11  | [Discord](https://discord.com/channels/302094807046684672/1136326045918834859) / [java-changelogs Discord](https://discord.com/channels/302094807046684672/656622314309550129) | 
+|    | PaperMC | 1.21.1-76          | ❌ | ✅ 1.21.11-100    | [Site web](https://papermc.io/downloads/paper) |  
+|    | Iris Shaders | 1.8.0 1.21           | ❌ |  ✅ 1.10.5    | [modrinth](https://modrinth.com/mod/iris/versions#all-versions) / [GitHub](https://github.com/IrisShaders/Iris/releases) |
+|    | LagFixer | 1.3.28                      | ❌ |   ✅ 1.5.1.10     | [modrinth](https://modrinth.com/plugin/lagfixer/versions) / [Spigot](https://www.spigotmc.org/resources/1-17-1-20-5-lagfixer-%E2%9A%A1%EF%B8%8F-best-performance-solution-%E2%AD%95-500-servers-%E2%9C%85-folia-supported.111684/updates) |
+|    | AntiPopup | 9.2                         | ❌ |  ✅ 12.4     | [Github](https://github.com/KaspianDev/AntiPopup/releases) / [Site web](https://polymart.org/resource/antipopup-pro.4921/updates) / [modrinth](https://modrinth.com/plugin/antipopup/versions) | 
+|    | Streamotes | 1.2.2                 | ❌ | ✅ 1.2.14    | [modrinth](https://modrinth.com/plugin/streamotes/versions) |                 |
+|    | CoreProtect | 22.4                       | ❌ | ✅ 23.1   | [GitHub](https://github.com/PlayPro/CoreProtect/releases) / [modrinth](https://modrinth.com/plugin/coreprotect/versions) |    |
+|    | DiscordSRV | 1.28.0 | ❌ | ✅ 1.30.4          | [GitHub](https://github.com/DiscordSRV/DiscordSRV/releases) | 
+|    | GriefPrevention | 16.18.4                     | ❌ | ✅ 16.18.5      | [GitHub](https://github.com/GriefPrevention/GriefPrevention/releases) / [modrinth](https://modrinth.com/plugin/griefprevention/versions) |
+|    | VoiceChat | bukkit-2.5.20      | ❌ | ✅ 2.6.11     | [modrinth](https://modrinth.com/plugin/simple-voice-chat/versions#all-versions) | 
+|    | ViaVersion | 5.0.4-SNAPSHOT+547    | ❌ | ✅   5.7.2-SNAPSHOT+912  | [Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) | 
+|    | ViaBackwards | 5.0.4-SNAPSHOT+328   | ❌ | ✅ 5.7.2-SNAPSHOT+547   | [Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) | 
 |    | ViaRewind | 4.0.3-SNAPSHOT+207  | ❌ | ✅ 4.0.15-SNAPSHOT+328     | [Hangar](https://hangar.papermc.io/ViaVersion/ViaRewind/versions) | 
 
 Légende :
