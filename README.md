@@ -30,7 +30,7 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 ## Prochaines mises à jour
 | 🐛 | Plugins et autres     | Version sur le serveur      | A jour ? | Mise à jour disponible ? | Suivre les mises à jour | Explications |
 | -- | ------------------------ | --------------------------- | -------- | ------------------------ | ---------------------------- | ------------ |
-|  | Dynmap   | 3.7-beta-7  | ❌ |    ✅ 3.8      | [modrinth](https://modrinth.com/plugin/dynmap/versions) / [Spigot](https://www.spigotmc.org/resources/dynmap%C2%AE.274/updates) |
+|  | Dynmap  | 3.7-beta-7  | ❌ |    ✅ 3.8      | [modrinth](https://modrinth.com/plugin/dynmap/versions) / [Spigot](https://www.spigotmc.org/resources/dynmap%C2%AE.274/updates) |
 |    | Minecraft   | 1.21.1                      | ❌ |  ✅ 1.21.11  | [Discord](https://discord.com/channels/302094807046684672/1136326045918834859) / [java-changelogs Discord](https://discord.com/channels/302094807046684672/656622314309550129) | 
 |    | PaperMC  | 1.21.1-76          | ❌ | ✅ 1.21.11-100      | [Site web](https://papermc.io/downloads/paper) |  
 |    | Iris Shaders  | 1.8.0 1.21           | ❌ |  ✅ 1.10.5      | [modrinth](https://modrinth.com/mod/iris/versions#all-versions) / [GitHub](https://github.com/IrisShaders/Iris/releases) |
