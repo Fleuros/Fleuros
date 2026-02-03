@@ -36,14 +36,14 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 |    | Iris Shaders | 1.8.0 1.21  | ❌ |  ✅ 1.10.5    | [modrinth](https://modrinth.com/mod/iris/versions#all-versions) / [GitHub](https://github.com/IrisShaders/Iris/releases) |
 |    | LagFixer | 1.3.28 | ❌ |   ✅ 1.5.1.10  | [modrinth](https://modrinth.com/plugin/lagfixer/versions) / [Spigot](https://www.spigotmc.org/resources/1-17-1-20-5-lagfixer-%E2%9A%A1%EF%B8%8F-best-performance-solution-%E2%AD%95-500-servers-%E2%9C%85-folia-supported.111684/updates) |
 |    | AntiPopup | 9.2  | ❌ |  ✅ 12.4  | [Github](https://github.com/KaspianDev/AntiPopup/releases) / [Site web](https://polymart.org/resource/antipopup-pro.4921/updates) / [modrinth](https://modrinth.com/plugin/antipopup/versions) | 
-|    | Streamotes | 1.2.2   | ❌ | ✅ 1.2.14  | [modrinth](https://modrinth.com/plugin/streamotes/versions) |                 |
-|    | CoreProtect | 22.4   | ❌ | ✅ 23.1   | [GitHub](https://github.com/PlayPro/CoreProtect/releases) / [modrinth](https://modrinth.com/plugin/coreprotect/versions) |    |
+|    | Streamotes | 1.2.2  | ❌ | ✅ 1.2.14  | [modrinth](https://modrinth.com/plugin/streamotes/versions) |                 |
+|    | CoreProtect | 22.4  | ❌ | ✅ 23.1   | [GitHub](https://github.com/PlayPro/CoreProtect/releases) / [modrinth](https://modrinth.com/plugin/coreprotect/versions) |    |
 |    | DiscordSRV | 1.28.0 | ❌ | ✅ 1.30.4          | [GitHub](https://github.com/DiscordSRV/DiscordSRV/releases) | 
 |    | GriefPrevention | 16.18.4                     | ❌ | ✅ 16.18.5  | [GitHub](https://github.com/GriefPrevention/GriefPrevention/releases) / [modrinth](https://modrinth.com/plugin/griefprevention/versions) |
 |    | VoiceChat | bukkit-2.5.20  | ❌ | ✅ 2.6.11     | [modrinth](https://modrinth.com/plugin/simple-voice-chat/versions#all-versions) | 
 |    | ViaVersion | 5.0.4-SNAPSHOT+547 | ❌ | ✅   5.7.2-SNAPSHOT+917 | [Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) | 
 |    | ViaBackwards | 5.0.4-SNAPSHOT+328 | ❌ | ✅ 5.7.2-SNAPSHOT+547 | [Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) | 
-|    | ViaRewind | 4.0.3-SNAPSHOT+207 | ❌ | ✅ 4.0.15-SNAPSHOT+329   | [Hangar](https://hangar.papermc.io/ViaVersion/ViaRewind/versions) | 
+|    | ViaRewind | 4.0.3-SNAPSHOT+207 | ❌ | ✅ 4.0.15-SNAPSHOT+329 | [Hangar](https://hangar.papermc.io/ViaVersion/ViaRewind/versions) | 
 
 Légende :
 - 🐛 = Ne fonctionne plus pour le moment
