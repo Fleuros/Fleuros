@@ -40,7 +40,7 @@ Si vous avez besoin de savoir la recette de l'enclume ou les recettes des potion
 |    | CoreProtect | 22.4  | ❌ | ✅ 23.1   | [GitHub](https://github.com/PlayPro/CoreProtect/releases) / [modrinth](https://modrinth.com/plugin/coreprotect/versions) |    |
 |    | DiscordSRV | 1.28.0 | ❌ | ✅ 1.30.4          | [GitHub](https://github.com/DiscordSRV/DiscordSRV/releases) | 
 |    | GriefPrevention | 16.18.4                     | ❌ | ✅ 16.18.5  | [GitHub](https://github.com/GriefPrevention/GriefPrevention/releases) / [modrinth](https://modrinth.com/plugin/griefprevention/versions) |
-|    | VoiceChat | bukkit-2.5.20  | ❌ | ✅ 2.6.11     | [modrinth](https://modrinth.com/plugin/simple-voice-chat/versions#all-versions) | 
+|    | VoiceChat | bukkit-2.5.20  | ❌ | ✅ 2.6.11   | [modrinth](https://modrinth.com/plugin/simple-voice-chat/versions#all-versions) | 
 |    | ViaVersion | 5.0.4-SNAPSHOT+547 | ❌ | ✅   5.7.2-SNAPSHOT+917 | [Hangar](https://hangar.papermc.io/ViaVersion/ViaVersion/versions) | 
 |    | ViaBackwards | 5.0.4-SNAPSHOT+328 | ❌ | ✅ 5.7.2-SNAPSHOT+547 | [Hangar](https://hangar.papermc.io/ViaVersion/ViaBackwards/versions) | 
 |    | ViaRewind | 4.0.3-SNAPSHOT+207 | ❌ | ✅ 4.0.15-SNAPSHOT+331 | [Hangar](https://hangar.papermc.io/ViaVersion/ViaRewind/versions) | 
