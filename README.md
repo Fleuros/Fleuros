@@ -2,6 +2,7 @@
 ![Fleuros](https://github.com/Fleuros/Fleuros/blob/main/fleuros.png)
 ## Jouez avec nous
 **IP** : 5.196.7.147
+
 **Version** : 1.21.1
 <p align="left">
     <a href="https://discord.gg/tNp9nrd">
